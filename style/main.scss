@@ -1,0 +1,16 @@
+/*!
+Theme Name: Default Theme
+Description: Default site theme
+Author: Gabriel Roldan <luisgabrielroldan@gmail.com>
+Author URI: http://www.nuuksfotware.com/
+Version: 1.0.0
+*/
+
+// @import "../node_modules/bootstrap/scss/bootstrap";
+@import "~bootstrap/scss/bootstrap";
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ccc;
+}
